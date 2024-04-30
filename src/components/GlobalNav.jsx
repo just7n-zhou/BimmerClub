@@ -44,7 +44,7 @@ function GlobalNav( { className, setPage }){
                     }
                 }}
             >
-                <img className="hamburger_menu" src="../pics/menu_icon.png" width={20} height={20} alt="hamburger menu"/>
+                <img className="hamburger_menu" src="/BimmerClub/pics/menu_icon.png" width={20} height={20} alt="hamburger menu"/>
              </div>
 
             <ul className={`global-nav__list ${showClass}`}>
